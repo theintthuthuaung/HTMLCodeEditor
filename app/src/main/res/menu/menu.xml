@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/insert_item"
+        android:title="Insert Template" />
+    <item
+        android:id="@+id/run_item"
+        android:title="Run" />
+    <item
+        android:id="@+id/clear_item"
+        android:title="Clear" />
+    <item
+        android:id="@+id/exit_item"
+        android:title="Exit" />
+</menu>
